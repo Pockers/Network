@@ -2,9 +2,6 @@
     Author: Michaela Hay
     Student ID: 1001649623
     Lab 2: Simulate Router Behavior using Bellman Ford Algorithm
-    Finished: 11/20/2021
-    Professor: Liu, Yongh
-    Class: 4344-001
     Python Vers: 3.8.
 '''
 import time
